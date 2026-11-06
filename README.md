@@ -2,6 +2,16 @@
 
 An embedded color detection project based on an **MSP430 microcontroller** and a **TCS3200 color sensor**, with custom schematic and PCB design files created in **Altium Designer**.
 
+![System functional overview](docs/system-overview.svg)
+
+## PCB files
+
+- [Main PCB design — renkpcb.PcbDoc](hardware/renkpcb.PcbDoc)
+- [Additional PCB design — renkpcb2.PcbDoc](hardware/renkpcb2.PcbDoc)
+- [Circuit schematic — sema.SchDoc](hardware/sema.SchDoc)
+
+These links open the original Altium files on GitHub. Download them to view the design in Altium Designer. The diagram above is a functional overview, not a PCB rendering.
+
 ## Project overview
 
 The system processes frequency output from the TCS3200 sensor to detect and classify eight different colors. The detected color is indicated using an RGB LED.
