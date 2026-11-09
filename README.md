@@ -16,7 +16,7 @@ These links open the original Altium files on GitHub. Download them to view the 
 
 The system processes frequency output from the TCS3200 sensor to detect and classify eight different colors. The detected color is indicated using an RGB LED.
 
-The functional description above reflects the project summary in the author's CV. This repository currently contains the hardware design files; firmware and experimental results are not included.
+This repository contains the Altium schematic and PCB design files. Firmware and experimental results are not included.
 
 ## Technologies
 
